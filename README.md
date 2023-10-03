@@ -22,12 +22,14 @@
 
 ✅ 3.5
 
-    Write a function called "reverse-between", which reverses segments of a list between specified atoms.
+    Write a function called "reverse-between",
+        which reverses segments of a list between specified atoms.
     Examples: (1 2 3 0 1 2 3 0 1 2 3), 0 -> (3 2 1 0 3 2 1 0 3 2 1)
               (1 2 3 4), 0 -> (4 3 2 1)
 ✅ 3.6 (Optional)
 
-    Write a function called "reverse-after", which reverses a part of the a list only after specified atoms.
+    Write a function called "reverse-after",
+        which reverses a part of the a list only after specified atoms.
     Example: (1 2 3 а 1 2 3), а -> (1 2 3 а 3 2 1)
 
 ✅ 3.7 (Optional)
